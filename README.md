@@ -8,7 +8,9 @@
 - Рассчитать Retention
 - Придумать и рассчитать custom metrics
 ## Стек
-Pandas, Plotly, Seaborn
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=ffffff)
+![Plotly](https://img.shields.io/badge/-Plotly-ffffff?style=for-the-badge&logo=Plotly&logoColor=7db5f5)
+![Seaborn](https://img.shields.io/badge/-Seaborn-e6edf5?style=for-the-badge&logo=Seaborn&logoColor=7e9bbd)
 ## Входные данные
 ### events.csv
 |  Тип данных   |              Описание                    |
