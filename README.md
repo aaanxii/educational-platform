@@ -7,7 +7,7 @@
 - Lifetime.
 - Retention.
 - Сustom metrics
-- Паттерны ушедших и оставшихся пользователей.
+- Выявить паттерны ушедших и оставшихся пользователей.
 ## Стек
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=ffffff)
